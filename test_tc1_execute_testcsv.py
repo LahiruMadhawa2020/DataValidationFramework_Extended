@@ -8,8 +8,6 @@ import pytest
 
 
 logging.basicConfig(level='DEBUG')
-# logger = log4p.GetLogger(__name__)
-# log = logger.logger
 
 
 @pytest.fixture

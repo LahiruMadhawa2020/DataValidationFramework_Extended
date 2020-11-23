@@ -1,5 +1,4 @@
 import logging
-import log4p
 from readingfiles_utility.testcsv import Testcsv
 from config_validation_resultsreport.tablecreation import TbToValidate
 from baseconfig_dataProfiling.dataprofiling_base import profilingBase
